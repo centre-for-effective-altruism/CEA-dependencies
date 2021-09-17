@@ -1,6 +1,6 @@
 # CEA dependency project
 
-Install this project and then verify that the tests run with commands:
+Clone this project and then verify that the tests run with commands:
 ```
 yarn install
 yarn test
